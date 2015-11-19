@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+cz
+__pychache__
+*.pyc
+db.sqlite3
+.idea
+napady.txt
