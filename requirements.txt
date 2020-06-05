@@ -6,7 +6,7 @@ checkbox-support==0.2
 command-not-found==0.3
 defer==1.0.6
 devscripts===2.14.1ubuntu0.1
-Django==1.8.4
+Django==1.11.29
 django-annoying==0.8.4
 django-bower==5.0.4
 django-scheduler==0.7.5
